@@ -16,7 +16,7 @@ Copyright (c) 2020 Joey T. Cheng, Jessica L. Tracy, and Joseph Henrich
 To reproduce our analyses:
 
 1. Download (to a single folder) all datasets collected in: (a) Durkee et al.'s original article (https://osf.io/3x8um/); and (b) our current reply (https://github.com/joeytcheng/Dominance-Necessary-to-Explain-Status/tree/main/replyData)
-2. Open the analysis code file 'dominance-explains-status.R'
+2. Open the analysis code file 'dominance-explains-status-code.R'
 3. In R, set the working directory to where you have saved the downloaded datasets
 4. In R, install any required packages
 5. In R, run the analysis code in the sequence displayed to reproduce results
