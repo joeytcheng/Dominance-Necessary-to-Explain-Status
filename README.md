@@ -5,7 +5,8 @@ Dominance-Necessary-to-Explain-Status
 
 ## Viewing the online extended version of this letter
 
-The extended online version of Dominance is Necessary to Explain Human Status Hierarchies [can be viewed here](http://htmlpreview.github.com/?https://github.com/joeytcheng/Dominance-Necessary-to-Explain-Status/blob/main/dominance-explains-status-extended-version.html).
+The extended online version of Dominance is Necessary to Explain Human Status Hierarchies [can be viewed here](http://htmlpreview.github.com/?https://github.com/joeytcheng/Dominance-Necessary-to-Explain-Status/blob/main/dominance-explains-status-extended-version-feb-2021.html).
+
 
 ## Regarding the analysis code
 
@@ -21,7 +22,7 @@ Copyright (c) 2020 Joey T. Cheng, Jessica L. Tracy, and Joseph Henrich
 
 To reproduce our analyses:
 
-1. Download (to a single folder) all datasets collected in: (a) Durkee et al.'s original article (https://osf.io/3x8um/) [5 data files]; and (b) our current reply (https://github.com/joeytcheng/Dominance-Necessary-to-Explain-Status/tree/main/replyData) [2 data files]
+1. Download (to a single folder) all datasets collected in Durkee et al.'s original article (https://osf.io/3x8um/) [5 data files]
 2. Open the analysis code file 'dominance-explains-status-code.R'
 3. In R, set the working directory to where you have saved the downloaded datasets
 4. In R, install any required packages specified
