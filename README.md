@@ -3,11 +3,6 @@ Dominance-Necessary-to-Explain-Status
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Viewing the online extended version of this letter
-
-The extended online version of Dominance is Necessary to Explain Human Status Hierarchies [can be viewed here](http://htmlpreview.github.com/?https://github.com/joeytcheng/Dominance-Necessary-to-Explain-Status/blob/main/dominance-explains-status-extended-version-feb-2021.html).
-
-
 ## Regarding the analysis code
 
 Our analysis code is based on the analyses in: 
